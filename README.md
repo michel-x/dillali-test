@@ -19,7 +19,7 @@ Builds the app for production to the `build` folder.\
 You may serve it with a static server like **serve** :
 
 *npm install -g serve* \
-*serve -s build* \
+*serve -s build*  
 
 Open the link indicated in the console (probably [http://localhost:5000](http://localhost:5000) ) to view it in the browser.
 
